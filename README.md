@@ -14,3 +14,6 @@ Kode ini memigrasikan database yang dimuat oleh https://github.com/cahyadsn/wila
 * $cd wilayah2018-migrator
 * $npm install
 * $node index.js
+
+# Demo Penggunaan Data Wilayah
+Visit: http://data.infest.or.id
