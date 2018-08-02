@@ -12,6 +12,7 @@ Kode ini memigrasikan database yang dimuat oleh https://github.com/cahyadsn/wila
 
 * $git clone https://github.com/infest-lab/wilayah2018-migrator.git
 * $cd wilayah2018-migrator
+* $nano index.js (sesuaikan konfigurasi database MySQL dan MongoDB)
 * $npm install
 * $node index.js
 
