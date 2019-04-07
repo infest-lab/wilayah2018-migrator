@@ -1,0 +1,204 @@
+{ 
+    "_id" : ObjectId("5b62e122567f8b2d24f06571"), 
+    "kode_provinsi" : "11", 
+    "nama_provinsi" : "ACEH", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b62e122567f8b2d24f06575"), 
+    "kode_provinsi" : "15", 
+    "nama_provinsi" : "JAMBI", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b62e122567f8b2d24f06572"), 
+    "kode_provinsi" : "12", 
+    "nama_provinsi" : "SUMATERA UTARA", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b62e122567f8b2d24f06573"), 
+    "kode_provinsi" : "13", 
+    "nama_provinsi" : "SUMATERA BARAT", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b62e122567f8b2d24f06576"), 
+    "kode_provinsi" : "16", 
+    "nama_provinsi" : "SUMATERA SELATAN", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b62e122567f8b2d24f06574"), 
+    "kode_provinsi" : "14", 
+    "nama_provinsi" : "RIAU", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b62e122567f8b2d24f0657a"), 
+    "kode_provinsi" : "21", 
+    "nama_provinsi" : "KEPULAUAN RIAU", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b62e122567f8b2d24f06579"), 
+    "kode_provinsi" : "19", 
+    "nama_provinsi" : "KEPULAUAN BANGKA BELITUNG", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b62e122567f8b2d24f0657b"), 
+    "kode_provinsi" : "31", 
+    "nama_provinsi" : "DKI JAKARTA", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b62e122567f8b2d24f06577"), 
+    "kode_provinsi" : "17", 
+    "nama_provinsi" : "BENGKULU", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b62e122567f8b2d24f0657e"), 
+    "kode_provinsi" : "34", 
+    "nama_provinsi" : "DAERAH ISTIMEWA YOGYAKARTA", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b62e122567f8b2d24f06580"), 
+    "kode_provinsi" : "36", 
+    "nama_provinsi" : "BANTEN", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b62e122567f8b2d24f06578"), 
+    "kode_provinsi" : "18", 
+    "nama_provinsi" : "LAMPUNG", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b62e122567f8b2d24f06583"), 
+    "kode_provinsi" : "53", 
+    "nama_provinsi" : "NUSA TENGGARA TIMUR", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b62e122567f8b2d24f0657f"), 
+    "kode_provinsi" : "35", 
+    "nama_provinsi" : "JAWA TIMUR", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b62e122567f8b2d24f0657c"), 
+    "kode_provinsi" : "32", 
+    "nama_provinsi" : "JAWA BARAT", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b62e122567f8b2d24f06588"), 
+    "kode_provinsi" : "65", 
+    "nama_provinsi" : "KALIMANTAN UTARA", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b62e122567f8b2d24f0657d"), 
+    "kode_provinsi" : "33", 
+    "nama_provinsi" : "JAWA TENGAH", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b62e122567f8b2d24f0658d"), 
+    "kode_provinsi" : "75", 
+    "nama_provinsi" : "GORONTALO", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b62e122567f8b2d24f06585"), 
+    "kode_provinsi" : "62", 
+    "nama_provinsi" : "KALIMANTAN TENGAH", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b62e122567f8b2d24f06592"), 
+    "kode_provinsi" : "92", 
+    "nama_provinsi" : "PAPUA BARAT", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b62e122567f8b2d24f06584"), 
+    "kode_provinsi" : "61", 
+    "nama_provinsi" : "KALIMANTAN BARAT", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b62e122567f8b2d24f06581"), 
+    "kode_provinsi" : "51", 
+    "nama_provinsi" : "BALI", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b62e122567f8b2d24f06582"), 
+    "kode_provinsi" : "52", 
+    "nama_provinsi" : "NUSA TENGGARA BARAT", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b62e122567f8b2d24f0658a"), 
+    "kode_provinsi" : "72", 
+    "nama_provinsi" : "SULAWESI TENGAH", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b62e122567f8b2d24f06586"), 
+    "kode_provinsi" : "63", 
+    "nama_provinsi" : "KALIMANTAN SELATAN", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b62e122567f8b2d24f0658f"), 
+    "kode_provinsi" : "81", 
+    "nama_provinsi" : "MALUKU", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b62e122567f8b2d24f0658b"), 
+    "kode_provinsi" : "73", 
+    "nama_provinsi" : "SULAWESI SELATAN", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b62e122567f8b2d24f06589"), 
+    "kode_provinsi" : "71", 
+    "nama_provinsi" : "SULAWESI UTARA", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b62e122567f8b2d24f06587"), 
+    "kode_provinsi" : "64", 
+    "nama_provinsi" : "KALIMANTAN TIMUR", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b62e122567f8b2d24f06590"), 
+    "kode_provinsi" : "82", 
+    "nama_provinsi" : "MALUKU UTARA", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b62e122567f8b2d24f0658e"), 
+    "kode_provinsi" : "76", 
+    "nama_provinsi" : "SULAWESI BARAT", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b62e122567f8b2d24f0658c"), 
+    "kode_provinsi" : "74", 
+    "nama_provinsi" : "SULAWESI TENGGARA", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b62e122567f8b2d24f06591"), 
+    "kode_provinsi" : "91", 
+    "nama_provinsi" : "P A P U A", 
+    "__v" : NumberInt(0)
+}

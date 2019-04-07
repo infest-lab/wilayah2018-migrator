@@ -1,0 +1,4626 @@
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6ead9e"), 
+    "kode_kabupaten" : "11.02", 
+    "nama_kabupaten" : "ACEH TENGGARA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "11", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06571")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eada1"), 
+    "kode_kabupaten" : "11.05", 
+    "nama_kabupaten" : "ACEH BARAT", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "11", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06571")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6ead9f"), 
+    "kode_kabupaten" : "11.03", 
+    "nama_kabupaten" : "ACEH TIMUR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "11", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06571")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6ead9d"), 
+    "kode_kabupaten" : "11.01", 
+    "nama_kabupaten" : "ACEH SELATAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "11", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06571")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eada0"), 
+    "kode_kabupaten" : "11.04", 
+    "nama_kabupaten" : "ACEH TENGAH", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "11", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06571")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eada2"), 
+    "kode_kabupaten" : "11.06", 
+    "nama_kabupaten" : "ACEH BESAR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "11", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06571")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eada7"), 
+    "kode_kabupaten" : "11.11", 
+    "nama_kabupaten" : "BIREUEN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "11", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06571")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadac"), 
+    "kode_kabupaten" : "11.16", 
+    "nama_kabupaten" : "ACEH TAMIANG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "11", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06571")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadb1"), 
+    "kode_kabupaten" : "11.73", 
+    "nama_kabupaten" : "KOTA LHOKSEUMAWE", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "11", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06571")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadb6"), 
+    "kode_kabupaten" : "12.03", 
+    "nama_kabupaten" : "TAPANULI SELATAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "12", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06572")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadbb"), 
+    "kode_kabupaten" : "12.08", 
+    "nama_kabupaten" : "SIMALUNGUN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "12", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06572")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadc0"), 
+    "kode_kabupaten" : "12.13", 
+    "nama_kabupaten" : "MANDAILING NATAL", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "12", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06572")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadc5"), 
+    "kode_kabupaten" : "12.18", 
+    "nama_kabupaten" : "SERDANG BEDAGAI", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "12", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06572")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadca"), 
+    "kode_kabupaten" : "12.23", 
+    "nama_kabupaten" : "LABUHANBATU UTARA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "12", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06572")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadcf"), 
+    "kode_kabupaten" : "12.73", 
+    "nama_kabupaten" : "KOTA SIBOLGA", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "12", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06572")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadd4"), 
+    "kode_kabupaten" : "12.78", 
+    "nama_kabupaten" : "KOTA GUNUNGSITOLI", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "12", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06572")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadd9"), 
+    "kode_kabupaten" : "13.05", 
+    "nama_kabupaten" : "PADANG PARIAMAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "13", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06573")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadde"), 
+    "kode_kabupaten" : "13.10", 
+    "nama_kabupaten" : "DHARMASRAYA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "13", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06573")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eade3"), 
+    "kode_kabupaten" : "13.73", 
+    "nama_kabupaten" : "KOTA SAWAHLUNTO", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "13", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06573")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eade8"), 
+    "kode_kabupaten" : "14.01", 
+    "nama_kabupaten" : "KAMPAR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "14", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06574")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaded"), 
+    "kode_kabupaten" : "14.06", 
+    "nama_kabupaten" : "ROKAN HULU", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "14", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06574")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadf2"), 
+    "kode_kabupaten" : "14.71", 
+    "nama_kabupaten" : "KOTA PEKANBARU", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "14", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06574")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadf7"), 
+    "kode_kabupaten" : "15.04", 
+    "nama_kabupaten" : "BATANGHARI", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "15", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06575")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadfc"), 
+    "kode_kabupaten" : "15.09", 
+    "nama_kabupaten" : "TEBO", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "15", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06575")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae01"), 
+    "kode_kabupaten" : "16.03", 
+    "nama_kabupaten" : "MUARA ENIM", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "16", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06576")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae06"), 
+    "kode_kabupaten" : "16.08", 
+    "nama_kabupaten" : "OGAN KOMERING ULU TIMUR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "16", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06576")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae0b"), 
+    "kode_kabupaten" : "16.13", 
+    "nama_kabupaten" : "MUSI RAWAS UTARA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "16", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06576")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae10"), 
+    "kode_kabupaten" : "17.01", 
+    "nama_kabupaten" : "BENGKULU SELATAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "17", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06577")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae15"), 
+    "kode_kabupaten" : "17.06", 
+    "nama_kabupaten" : "MUKO MUKO", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "17", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06577")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae1a"), 
+    "kode_kabupaten" : "18.01", 
+    "nama_kabupaten" : "LAMPUNG SELATAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "18", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06578")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae1f"), 
+    "kode_kabupaten" : "18.06", 
+    "nama_kabupaten" : "TANGGAMUS", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "18", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06578")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae24"), 
+    "kode_kabupaten" : "18.11", 
+    "nama_kabupaten" : "MESUJI", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "18", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06578")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae29"), 
+    "kode_kabupaten" : "19.01", 
+    "nama_kabupaten" : "BANGKA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "19", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06579")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae2e"), 
+    "kode_kabupaten" : "19.06", 
+    "nama_kabupaten" : "BELITUNG TIMUR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "19", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06579")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae33"), 
+    "kode_kabupaten" : "21.04", 
+    "nama_kabupaten" : "LINGGA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "21", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657a")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eada4"), 
+    "kode_kabupaten" : "11.08", 
+    "nama_kabupaten" : "ACEH UTARA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "11", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06571")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eada6"), 
+    "kode_kabupaten" : "11.10", 
+    "nama_kabupaten" : "ACEH SINGKIL", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "11", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06571")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eada5"), 
+    "kode_kabupaten" : "11.09", 
+    "nama_kabupaten" : "SIMEULUE", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "11", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06571")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eada3"), 
+    "kode_kabupaten" : "11.07", 
+    "nama_kabupaten" : "PIDIE", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "11", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06571")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadab"), 
+    "kode_kabupaten" : "11.15", 
+    "nama_kabupaten" : "NAGAN RAYA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "11", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06571")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eada8"), 
+    "kode_kabupaten" : "11.12", 
+    "nama_kabupaten" : "ACEH BARAT DAYA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "11", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06571")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadaa"), 
+    "kode_kabupaten" : "11.14", 
+    "nama_kabupaten" : "ACEH JAYA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "11", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06571")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadb0"), 
+    "kode_kabupaten" : "11.72", 
+    "nama_kabupaten" : "KOTA SABANG", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "11", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06571")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eada9"), 
+    "kode_kabupaten" : "11.13", 
+    "nama_kabupaten" : "GAYO LUES", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "11", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06571")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadad"), 
+    "kode_kabupaten" : "11.17", 
+    "nama_kabupaten" : "BENER MERIAH", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "11", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06571")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadb5"), 
+    "kode_kabupaten" : "12.02", 
+    "nama_kabupaten" : "TAPANULI UTARA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "12", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06572")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadaf"), 
+    "kode_kabupaten" : "11.71", 
+    "nama_kabupaten" : "KOTA BANDA ACEH", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "11", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06571")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadb2"), 
+    "kode_kabupaten" : "11.74", 
+    "nama_kabupaten" : "KOTA LANGSA", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "11", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06571")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadba"), 
+    "kode_kabupaten" : "12.07", 
+    "nama_kabupaten" : "DELI SERDANG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "12", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06572")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadae"), 
+    "kode_kabupaten" : "11.18", 
+    "nama_kabupaten" : "PIDIE JAYA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "11", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06571")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadb7"), 
+    "kode_kabupaten" : "12.04", 
+    "nama_kabupaten" : "NIAS", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "12", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06572")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadbf"), 
+    "kode_kabupaten" : "12.12", 
+    "nama_kabupaten" : "TOBA SAMOSIR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "12", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06572")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadbc"), 
+    "kode_kabupaten" : "12.09", 
+    "nama_kabupaten" : "ASAHAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "12", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06572")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadc4"), 
+    "kode_kabupaten" : "12.17", 
+    "nama_kabupaten" : "SAMOSIR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "12", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06572")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadb4"), 
+    "kode_kabupaten" : "12.01", 
+    "nama_kabupaten" : "TAPANULI TENGAH", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "12", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06572")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadc1"), 
+    "kode_kabupaten" : "12.14", 
+    "nama_kabupaten" : "NIAS SELATAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "12", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06572")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadb3"), 
+    "kode_kabupaten" : "11.75", 
+    "nama_kabupaten" : "KOTA SUBULUSSALAM", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "11", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06571")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadc6"), 
+    "kode_kabupaten" : "12.19", 
+    "nama_kabupaten" : "BATU BARA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "12", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06572")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadb8"), 
+    "kode_kabupaten" : "12.05", 
+    "nama_kabupaten" : "LANGKAT", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "12", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06572")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadcb"), 
+    "kode_kabupaten" : "12.24", 
+    "nama_kabupaten" : "NIAS UTARA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "12", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06572")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadbd"), 
+    "kode_kabupaten" : "12.10", 
+    "nama_kabupaten" : "LABUHANBATU", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "12", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06572")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadd0"), 
+    "kode_kabupaten" : "12.74", 
+    "nama_kabupaten" : "KOTA TANJUNG BALAI", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "12", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06572")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadc2"), 
+    "kode_kabupaten" : "12.15", 
+    "nama_kabupaten" : "PAKPAK BHARAT", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "12", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06572")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadc7"), 
+    "kode_kabupaten" : "12.20", 
+    "nama_kabupaten" : "PADANG LAWAS UTARA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "12", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06572")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadd5"), 
+    "kode_kabupaten" : "13.01", 
+    "nama_kabupaten" : "PESISIR SELATAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "13", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06573")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadcc"), 
+    "kode_kabupaten" : "12.25", 
+    "nama_kabupaten" : "NIAS BARAT", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "12", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06572")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadda"), 
+    "kode_kabupaten" : "13.06", 
+    "nama_kabupaten" : "AGAM", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "13", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06573")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadd1"), 
+    "kode_kabupaten" : "12.75", 
+    "nama_kabupaten" : "KOTA BINJAI", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "12", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06572")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaddf"), 
+    "kode_kabupaten" : "13.11", 
+    "nama_kabupaten" : "SOLOK SELATAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "13", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06573")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadd6"), 
+    "kode_kabupaten" : "13.02", 
+    "nama_kabupaten" : "SOLOK", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "13", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06573")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eade4"), 
+    "kode_kabupaten" : "13.74", 
+    "nama_kabupaten" : "KOTA PADANG PANJANG", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "13", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06573")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaddb"), 
+    "kode_kabupaten" : "13.07", 
+    "nama_kabupaten" : "LIMA PULUH KOTA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "13", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06573")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eade9"), 
+    "kode_kabupaten" : "14.02", 
+    "nama_kabupaten" : "INDRAGIRI HULU", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "14", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06574")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eade0"), 
+    "kode_kabupaten" : "13.12", 
+    "nama_kabupaten" : "PASAMAN BARAT", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "13", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06573")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadee"), 
+    "kode_kabupaten" : "14.07", 
+    "nama_kabupaten" : "ROKAN HILIR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "14", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06574")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eade5"), 
+    "kode_kabupaten" : "13.75", 
+    "nama_kabupaten" : "KOTA BUKITTINGGI", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "13", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06573")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadf3"), 
+    "kode_kabupaten" : "14.72", 
+    "nama_kabupaten" : "KOTA DUMAI", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "14", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06574")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadea"), 
+    "kode_kabupaten" : "14.03", 
+    "nama_kabupaten" : "BENGKALIS", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "14", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06574")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadf8"), 
+    "kode_kabupaten" : "15.05", 
+    "nama_kabupaten" : "MUARO JAMBI", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "15", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06575")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadef"), 
+    "kode_kabupaten" : "14.08", 
+    "nama_kabupaten" : "SIAK", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "14", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06574")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadfd"), 
+    "kode_kabupaten" : "15.71", 
+    "nama_kabupaten" : "KOTA JAMBI", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "15", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06575")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadf4"), 
+    "kode_kabupaten" : "15.01", 
+    "nama_kabupaten" : "KERINCI", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "15", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06575")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae02"), 
+    "kode_kabupaten" : "16.04", 
+    "nama_kabupaten" : "LAHAT", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "16", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06576")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadf9"), 
+    "kode_kabupaten" : "15.06", 
+    "nama_kabupaten" : "TANJUNG JABUNG BARAT", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "15", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06575")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae07"), 
+    "kode_kabupaten" : "16.09", 
+    "nama_kabupaten" : "OGAN KOMERING ULU SELATAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "16", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06576")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadfe"), 
+    "kode_kabupaten" : "15.72", 
+    "nama_kabupaten" : "KOTA SUNGAI PENUH", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "15", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06575")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae0c"), 
+    "kode_kabupaten" : "16.71", 
+    "nama_kabupaten" : "KOTA PALEMBANG", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "16", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06576")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae03"), 
+    "kode_kabupaten" : "16.05", 
+    "nama_kabupaten" : "MUSI RAWAS", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "16", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06576")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae11"), 
+    "kode_kabupaten" : "17.02", 
+    "nama_kabupaten" : "REJANG LEBONG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "17", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06577")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae08"), 
+    "kode_kabupaten" : "16.10", 
+    "nama_kabupaten" : "OGAN ILIR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "16", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06576")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae16"), 
+    "kode_kabupaten" : "17.07", 
+    "nama_kabupaten" : "LEBONG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "17", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06577")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae0d"), 
+    "kode_kabupaten" : "16.72", 
+    "nama_kabupaten" : "KOTA PAGAR ALAM", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "16", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06576")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae1b"), 
+    "kode_kabupaten" : "18.02", 
+    "nama_kabupaten" : "LAMPUNG TENGAH", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "18", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06578")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae12"), 
+    "kode_kabupaten" : "17.03", 
+    "nama_kabupaten" : "BENGKULU UTARA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "17", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06577")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae20"), 
+    "kode_kabupaten" : "18.07", 
+    "nama_kabupaten" : "LAMPUNG TIMUR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "18", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06578")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae17"), 
+    "kode_kabupaten" : "17.08", 
+    "nama_kabupaten" : "KEPAHIANG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "17", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06577")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae25"), 
+    "kode_kabupaten" : "18.12", 
+    "nama_kabupaten" : "TULANG BAWANG BARAT", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "18", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06578")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae1c"), 
+    "kode_kabupaten" : "18.03", 
+    "nama_kabupaten" : "LAMPUNG UTARA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "18", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06578")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae2a"), 
+    "kode_kabupaten" : "19.02", 
+    "nama_kabupaten" : "BELITUNG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "19", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06579")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae21"), 
+    "kode_kabupaten" : "18.08", 
+    "nama_kabupaten" : "WAY KANAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "18", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06578")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae2f"), 
+    "kode_kabupaten" : "19.71", 
+    "nama_kabupaten" : "KOTA PANGKAL PINANG", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "19", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06579")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae26"), 
+    "kode_kabupaten" : "18.13", 
+    "nama_kabupaten" : "PESISIR BARAT", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "18", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06578")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae34"), 
+    "kode_kabupaten" : "21.05", 
+    "nama_kabupaten" : "KEPULAUAN ANAMBAS", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "21", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657a")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae2b"), 
+    "kode_kabupaten" : "19.03", 
+    "nama_kabupaten" : "BANGKA SELATAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "19", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06579")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae39"), 
+    "kode_kabupaten" : "31.72", 
+    "nama_kabupaten" : "KOTA ADM. JAKARTA UTARA", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "31", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657b")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae30"), 
+    "kode_kabupaten" : "21.01", 
+    "nama_kabupaten" : "BINTAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "21", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657a")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae3e"), 
+    "kode_kabupaten" : "32.02", 
+    "nama_kabupaten" : "SUKABUMI", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "32", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae35"), 
+    "kode_kabupaten" : "21.71", 
+    "nama_kabupaten" : "KOTA BATAM", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "21", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657a")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae43"), 
+    "kode_kabupaten" : "32.07", 
+    "nama_kabupaten" : "CIAMIS", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "32", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae3a"), 
+    "kode_kabupaten" : "31.73", 
+    "nama_kabupaten" : "KOTA ADM. JAKARTA BARAT", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "31", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657b")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae48"), 
+    "kode_kabupaten" : "32.12", 
+    "nama_kabupaten" : "INDRAMAYU", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "32", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae3f"), 
+    "kode_kabupaten" : "32.03", 
+    "nama_kabupaten" : "CIANJUR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "32", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae4d"), 
+    "kode_kabupaten" : "32.17", 
+    "nama_kabupaten" : "BANDUNG BARAT", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "32", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae44"), 
+    "kode_kabupaten" : "32.08", 
+    "nama_kabupaten" : "KUNINGAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "32", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae52"), 
+    "kode_kabupaten" : "32.74", 
+    "nama_kabupaten" : "KOTA CIREBON", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "32", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae49"), 
+    "kode_kabupaten" : "32.13", 
+    "nama_kabupaten" : "SUBANG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "32", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae57"), 
+    "kode_kabupaten" : "32.79", 
+    "nama_kabupaten" : "KOTA BANJAR", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "32", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae4e"), 
+    "kode_kabupaten" : "32.18", 
+    "nama_kabupaten" : "PANGANDARAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "32", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae5c"), 
+    "kode_kabupaten" : "33.05", 
+    "nama_kabupaten" : "KEBUMEN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "33", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae61"), 
+    "kode_kabupaten" : "33.10", 
+    "nama_kabupaten" : "KLATEN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "33", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae66"), 
+    "kode_kabupaten" : "33.15", 
+    "nama_kabupaten" : "GROBOGAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "33", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae6b"), 
+    "kode_kabupaten" : "33.20", 
+    "nama_kabupaten" : "JEPARA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "33", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae70"), 
+    "kode_kabupaten" : "33.25", 
+    "nama_kabupaten" : "BATANG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "33", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae75"), 
+    "kode_kabupaten" : "33.71", 
+    "nama_kabupaten" : "KOTA MAGELANG", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "33", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadc9"), 
+    "kode_kabupaten" : "12.22", 
+    "nama_kabupaten" : "LABUHANBATU SELATAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "12", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06572")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadce"), 
+    "kode_kabupaten" : "12.72", 
+    "nama_kabupaten" : "KOTA PEMATANGSIANTAR", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "12", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06572")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadd3"), 
+    "kode_kabupaten" : "12.77", 
+    "nama_kabupaten" : "KOTA PADANGSIDIMPUAN", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "12", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06572")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadd8"), 
+    "kode_kabupaten" : "13.04", 
+    "nama_kabupaten" : "TANAH DATAR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "13", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06573")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaddd"), 
+    "kode_kabupaten" : "13.09", 
+    "nama_kabupaten" : "KEPULAUAN MENTAWAI", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "13", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06573")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eade2"), 
+    "kode_kabupaten" : "13.72", 
+    "nama_kabupaten" : "KOTA SOLOK", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "13", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06573")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eade7"), 
+    "kode_kabupaten" : "13.77", 
+    "nama_kabupaten" : "KOTA PARIAMAN", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "13", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06573")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadec"), 
+    "kode_kabupaten" : "14.05", 
+    "nama_kabupaten" : "PELALAWAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "14", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06574")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadf1"), 
+    "kode_kabupaten" : "14.10", 
+    "nama_kabupaten" : "KEPULAUAN MERANTI", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "14", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06574")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae53"), 
+    "kode_kabupaten" : "32.75", 
+    "nama_kabupaten" : "KOTA BEKASI", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "32", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadf6"), 
+    "kode_kabupaten" : "15.03", 
+    "nama_kabupaten" : "SAROLANGUN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "15", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06575")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae58"), 
+    "kode_kabupaten" : "33.01", 
+    "nama_kabupaten" : "CILACAP", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "33", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadfb"), 
+    "kode_kabupaten" : "15.08", 
+    "nama_kabupaten" : "BUNGO", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "15", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06575")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae5d"), 
+    "kode_kabupaten" : "33.06", 
+    "nama_kabupaten" : "PURWOREJO", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "33", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae7a"), 
+    "kode_kabupaten" : "33.76", 
+    "nama_kabupaten" : "KOTA TEGAL", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "33", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae62"), 
+    "kode_kabupaten" : "33.11", 
+    "nama_kabupaten" : "SUKOHARJO", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "33", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae00"), 
+    "kode_kabupaten" : "16.02", 
+    "nama_kabupaten" : "OGAN KOMERING ILIR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "16", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06576")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae67"), 
+    "kode_kabupaten" : "33.16", 
+    "nama_kabupaten" : "BLORA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "33", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae7f"), 
+    "kode_kabupaten" : "34.71", 
+    "nama_kabupaten" : "KOTA YOGYAKARTA", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "34", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657e")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae6c"), 
+    "kode_kabupaten" : "33.21", 
+    "nama_kabupaten" : "DEMAK", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "33", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae05"), 
+    "kode_kabupaten" : "16.07", 
+    "nama_kabupaten" : "BANYUASIN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "16", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06576")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae71"), 
+    "kode_kabupaten" : "33.26", 
+    "nama_kabupaten" : "PEKALONGAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "33", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae84"), 
+    "kode_kabupaten" : "35.05", 
+    "nama_kabupaten" : "BLITAR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae76"), 
+    "kode_kabupaten" : "33.72", 
+    "nama_kabupaten" : "KOTA SURAKARTA", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "33", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae0a"), 
+    "kode_kabupaten" : "16.12", 
+    "nama_kabupaten" : "PENUKAL ABAB LEMATANG ILIR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "16", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06576")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae7b"), 
+    "kode_kabupaten" : "34.01", 
+    "nama_kabupaten" : "KULON PROGO", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "34", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657e")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae89"), 
+    "kode_kabupaten" : "35.10", 
+    "nama_kabupaten" : "BANYUWANGI", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae80"), 
+    "kode_kabupaten" : "35.01", 
+    "nama_kabupaten" : "PACITAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae0f"), 
+    "kode_kabupaten" : "16.74", 
+    "nama_kabupaten" : "KOTA PRABUMULIH", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "16", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06576")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae85"), 
+    "kode_kabupaten" : "35.06", 
+    "nama_kabupaten" : "KEDIRI", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae8e"), 
+    "kode_kabupaten" : "35.15", 
+    "nama_kabupaten" : "SIDOARJO", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae8a"), 
+    "kode_kabupaten" : "35.11", 
+    "nama_kabupaten" : "BONDOWOSO", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae14"), 
+    "kode_kabupaten" : "17.05", 
+    "nama_kabupaten" : "SELUMA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "17", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06577")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae8f"), 
+    "kode_kabupaten" : "35.16", 
+    "nama_kabupaten" : "MOJOKERTO", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae93"), 
+    "kode_kabupaten" : "35.20", 
+    "nama_kabupaten" : "MAGETAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae94"), 
+    "kode_kabupaten" : "35.21", 
+    "nama_kabupaten" : "NGAWI", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae19"), 
+    "kode_kabupaten" : "17.71", 
+    "nama_kabupaten" : "KOTA BENGKULU", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "17", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06577")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae99"), 
+    "kode_kabupaten" : "35.26", 
+    "nama_kabupaten" : "BANGKALAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae98"), 
+    "kode_kabupaten" : "35.25", 
+    "nama_kabupaten" : "GRESIK", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae9e"), 
+    "kode_kabupaten" : "35.72", 
+    "nama_kabupaten" : "KOTA BLITAR", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae1e"), 
+    "kode_kabupaten" : "18.05", 
+    "nama_kabupaten" : "TULANG BAWANG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "18", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06578")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaea3"), 
+    "kode_kabupaten" : "35.77", 
+    "nama_kabupaten" : "KOTA MADIUN", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae9d"), 
+    "kode_kabupaten" : "35.71", 
+    "nama_kabupaten" : "KOTA KEDIRI", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaea8"), 
+    "kode_kabupaten" : "36.03", 
+    "nama_kabupaten" : "TANGERANG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "36", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06580")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae23"), 
+    "kode_kabupaten" : "18.10", 
+    "nama_kabupaten" : "PRINGSEWU", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "18", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06578")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaead"), 
+    "kode_kabupaten" : "36.74", 
+    "nama_kabupaten" : "KOTA TANGERANG SELATAN", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "36", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06580")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaea2"), 
+    "kode_kabupaten" : "35.76", 
+    "nama_kabupaten" : "KOTA MOJOKERTO", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaeb2"), 
+    "kode_kabupaten" : "51.05", 
+    "nama_kabupaten" : "KLUNGKUNG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "51", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06581")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae28"), 
+    "kode_kabupaten" : "18.72", 
+    "nama_kabupaten" : "KOTA METRO", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "18", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06578")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaeb7"), 
+    "kode_kabupaten" : "52.01", 
+    "nama_kabupaten" : "LOMBOK BARAT", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "52", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06582")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaea7"), 
+    "kode_kabupaten" : "36.02", 
+    "nama_kabupaten" : "LEBAK", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "36", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06580")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaebc"), 
+    "kode_kabupaten" : "52.06", 
+    "nama_kabupaten" : "BIMA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "52", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06582")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae2d"), 
+    "kode_kabupaten" : "19.05", 
+    "nama_kabupaten" : "BANGKA BARAT", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "19", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06579")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaec1"), 
+    "kode_kabupaten" : "53.01", 
+    "nama_kabupaten" : "KUPANG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "53", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06583")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaec6"), 
+    "kode_kabupaten" : "53.06", 
+    "nama_kabupaten" : "FLORES TIMUR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "53", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06583")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaeac"), 
+    "kode_kabupaten" : "36.73", 
+    "nama_kabupaten" : "KOTA SERANG", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "36", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06580")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaecb"), 
+    "kode_kabupaten" : "53.11", 
+    "nama_kabupaten" : "SUMBA TIMUR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "53", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06583")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae32"), 
+    "kode_kabupaten" : "21.03", 
+    "nama_kabupaten" : "NATUNA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "21", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657a")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaed0"), 
+    "kode_kabupaten" : "53.16", 
+    "nama_kabupaten" : "NAGEKEO", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "53", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06583")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaeb1"), 
+    "kode_kabupaten" : "51.04", 
+    "nama_kabupaten" : "GIANYAR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "51", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06581")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaed5"), 
+    "kode_kabupaten" : "53.21", 
+    "nama_kabupaten" : "MALAKA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "53", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06583")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaeda"), 
+    "kode_kabupaten" : "61.04", 
+    "nama_kabupaten" : "KETAPANG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "61", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06584")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae37"), 
+    "kode_kabupaten" : "31.01", 
+    "nama_kabupaten" : "KEPULAUAN SERIBU", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "31", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657b")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaedf"), 
+    "kode_kabupaten" : "61.09", 
+    "nama_kabupaten" : "SEKADAU", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "61", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06584")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaeb6"), 
+    "kode_kabupaten" : "51.71", 
+    "nama_kabupaten" : "KOTA DENPASAR", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "51", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06581")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaee4"), 
+    "kode_kabupaten" : "61.72", 
+    "nama_kabupaten" : "KOTA SINGKAWANG", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "61", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06584")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaee9"), 
+    "kode_kabupaten" : "62.05", 
+    "nama_kabupaten" : "BARITO UTARA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "62", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06585")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae3c"), 
+    "kode_kabupaten" : "31.75", 
+    "nama_kabupaten" : "KOTA ADM. JAKARTA TIMUR", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "31", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657b")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaeee"), 
+    "kode_kabupaten" : "62.10", 
+    "nama_kabupaten" : "GUNUNG MAS", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "62", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06585")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaebb"), 
+    "kode_kabupaten" : "52.05", 
+    "nama_kabupaten" : "DOMPU", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "52", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06582")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaef3"), 
+    "kode_kabupaten" : "63.01", 
+    "nama_kabupaten" : "TANAH LAUT", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "63", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06586")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaef8"), 
+    "kode_kabupaten" : "63.06", 
+    "nama_kabupaten" : "HULU SUNGAI SELATAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "63", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06586")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae41"), 
+    "kode_kabupaten" : "32.05", 
+    "nama_kabupaten" : "GARUT", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "32", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaefd"), 
+    "kode_kabupaten" : "63.11", 
+    "nama_kabupaten" : "BALANGAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "63", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06586")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaec0"), 
+    "kode_kabupaten" : "52.72", 
+    "nama_kabupaten" : "KOTA BIMA", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "52", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06582")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf02"), 
+    "kode_kabupaten" : "64.03", 
+    "nama_kabupaten" : "BERAU", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "64", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06587")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf07"), 
+    "kode_kabupaten" : "64.71", 
+    "nama_kabupaten" : "KOTA BALIKPAPAN", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "64", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06587")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae46"), 
+    "kode_kabupaten" : "32.10", 
+    "nama_kabupaten" : "MAJALENGKA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "32", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf0c"), 
+    "kode_kabupaten" : "65.03", 
+    "nama_kabupaten" : "NUNUKAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "65", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06588")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaec5"), 
+    "kode_kabupaten" : "53.05", 
+    "nama_kabupaten" : "ALOR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "53", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06583")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf11"), 
+    "kode_kabupaten" : "71.03", 
+    "nama_kabupaten" : "KEPULAUAN SANGIHE", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "71", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06589")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf16"), 
+    "kode_kabupaten" : "71.08", 
+    "nama_kabupaten" : "BOLAANG MONGONDOW UTARA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "71", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06589")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae4b"), 
+    "kode_kabupaten" : "32.15", 
+    "nama_kabupaten" : "KARAWANG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "32", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf1b"), 
+    "kode_kabupaten" : "71.72", 
+    "nama_kabupaten" : "KOTA BITUNG", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "71", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06589")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaeca"), 
+    "kode_kabupaten" : "53.10", 
+    "nama_kabupaten" : "MANGGARAI", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "53", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06583")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf20"), 
+    "kode_kabupaten" : "72.03", 
+    "nama_kabupaten" : "DONGGALA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "72", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658a")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf25"), 
+    "kode_kabupaten" : "72.08", 
+    "nama_kabupaten" : "PARIGI MOUTONG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "72", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658a")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae50"), 
+    "kode_kabupaten" : "32.72", 
+    "nama_kabupaten" : "KOTA SUKABUMI", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "32", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf2a"), 
+    "kode_kabupaten" : "72.71", 
+    "nama_kabupaten" : "KOTA PALU", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "72", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658a")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaecf"), 
+    "kode_kabupaten" : "53.15", 
+    "nama_kabupaten" : "MANGGARAI BARAT", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "53", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06583")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf2f"), 
+    "kode_kabupaten" : "73.05", 
+    "nama_kabupaten" : "TAKALAR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "73", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658b")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf34"), 
+    "kode_kabupaten" : "73.10", 
+    "nama_kabupaten" : "PANGKAJENE KEPULAUAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "73", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658b")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf39"), 
+    "kode_kabupaten" : "73.15", 
+    "nama_kabupaten" : "PINRANG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "73", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658b")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaed4"), 
+    "kode_kabupaten" : "53.20", 
+    "nama_kabupaten" : "SABU RAIJUA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "53", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06583")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf3e"), 
+    "kode_kabupaten" : "73.24", 
+    "nama_kabupaten" : "LUWU TIMUR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "73", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658b")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaed9"), 
+    "kode_kabupaten" : "61.03", 
+    "nama_kabupaten" : "SANGGAU", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "61", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06584")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf43"), 
+    "kode_kabupaten" : "74.01", 
+    "nama_kabupaten" : "KOLAKA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "74", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf48"), 
+    "kode_kabupaten" : "74.06", 
+    "nama_kabupaten" : "BOMBANA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "74", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaede"), 
+    "kode_kabupaten" : "61.08", 
+    "nama_kabupaten" : "LANDAK", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "61", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06584")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf4d"), 
+    "kode_kabupaten" : "74.11", 
+    "nama_kabupaten" : "KOLAKA TIMUR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "74", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf52"), 
+    "kode_kabupaten" : "74.71", 
+    "nama_kabupaten" : "KOTA KENDARI", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "74", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf57"), 
+    "kode_kabupaten" : "75.04", 
+    "nama_kabupaten" : "PAHUWATO", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "75", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf5c"), 
+    "kode_kabupaten" : "76.03", 
+    "nama_kabupaten" : "MAMASA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "76", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658e")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf61"), 
+    "kode_kabupaten" : "81.02", 
+    "nama_kabupaten" : "MALUKU TENGGARA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "81", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf66"), 
+    "kode_kabupaten" : "81.07", 
+    "nama_kabupaten" : "KEPULAUAN ARU", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "81", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadb9"), 
+    "kode_kabupaten" : "12.06", 
+    "nama_kabupaten" : "KARO", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "12", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06572")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf6b"), 
+    "kode_kabupaten" : "82.01", 
+    "nama_kabupaten" : "HALMAHERA BARAT", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "82", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06590")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf70"), 
+    "kode_kabupaten" : "82.06", 
+    "nama_kabupaten" : "HALMAHERA TIMUR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "82", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06590")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf75"), 
+    "kode_kabupaten" : "91.01", 
+    "nama_kabupaten" : "MERAUKE", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "91", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06591")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf7a"), 
+    "kode_kabupaten" : "91.06", 
+    "nama_kabupaten" : "BIAK NUMFOR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "91", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06591")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf7f"), 
+    "kode_kabupaten" : "91.11", 
+    "nama_kabupaten" : "KEEROM", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "91", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06591")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf84"), 
+    "kode_kabupaten" : "91.16", 
+    "nama_kabupaten" : "BOVEN DIGOEL", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "91", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06591")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf89"), 
+    "kode_kabupaten" : "91.21", 
+    "nama_kabupaten" : "MAMBERAMO TENGAH", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "91", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06591")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf8e"), 
+    "kode_kabupaten" : "91.26", 
+    "nama_kabupaten" : "DOGIYAI", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "91", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06591")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf93"), 
+    "kode_kabupaten" : "92.02", 
+    "nama_kabupaten" : "MANOKWARI", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "92", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06592")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf98"), 
+    "kode_kabupaten" : "92.07", 
+    "nama_kabupaten" : "TELUK WONDAMA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "92", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06592")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf9d"), 
+    "kode_kabupaten" : "92.12", 
+    "nama_kabupaten" : "PEGUNUNGAN ARFAK", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "92", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06592")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae55"), 
+    "kode_kabupaten" : "32.77", 
+    "nama_kabupaten" : "KOTA CIMAHI", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "32", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae5a"), 
+    "kode_kabupaten" : "33.03", 
+    "nama_kabupaten" : "PURBALINGGA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "33", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae5f"), 
+    "kode_kabupaten" : "33.08", 
+    "nama_kabupaten" : "MAGELANG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "33", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae64"), 
+    "kode_kabupaten" : "33.13", 
+    "nama_kabupaten" : "KARANGANYAR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "33", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae69"), 
+    "kode_kabupaten" : "33.18", 
+    "nama_kabupaten" : "PATI", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "33", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae6e"), 
+    "kode_kabupaten" : "33.23", 
+    "nama_kabupaten" : "TEMANGGUNG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "33", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadbe"), 
+    "kode_kabupaten" : "12.11", 
+    "nama_kabupaten" : "DAIRI", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "12", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06572")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae73"), 
+    "kode_kabupaten" : "33.28", 
+    "nama_kabupaten" : "TEGAL", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "33", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadc3"), 
+    "kode_kabupaten" : "12.16", 
+    "nama_kabupaten" : "HUMBANG HASUNDUTAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "12", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06572")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae78"), 
+    "kode_kabupaten" : "33.74", 
+    "nama_kabupaten" : "KOTA SEMARANG", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "33", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadc8"), 
+    "kode_kabupaten" : "12.21", 
+    "nama_kabupaten" : "PADANG LAWAS", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "12", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06572")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae7d"), 
+    "kode_kabupaten" : "34.03", 
+    "nama_kabupaten" : "GUNUNGKIDUL", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "34", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657e")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadcd"), 
+    "kode_kabupaten" : "12.71", 
+    "nama_kabupaten" : "KOTA MEDAN", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "12", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06572")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae82"), 
+    "kode_kabupaten" : "35.03", 
+    "nama_kabupaten" : "TRENGGALEK", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadd2"), 
+    "kode_kabupaten" : "12.76", 
+    "nama_kabupaten" : "KOTA TEBING TINGGI", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "12", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06572")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadd7"), 
+    "kode_kabupaten" : "13.03", 
+    "nama_kabupaten" : "SIJUNJUNG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "13", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06573")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae87"), 
+    "kode_kabupaten" : "35.08", 
+    "nama_kabupaten" : "LUMAJANG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaddc"), 
+    "kode_kabupaten" : "13.08", 
+    "nama_kabupaten" : "PASAMAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "13", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06573")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae8c"), 
+    "kode_kabupaten" : "35.13", 
+    "nama_kabupaten" : "PROBOLINGGO", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eade1"), 
+    "kode_kabupaten" : "13.71", 
+    "nama_kabupaten" : "KOTA PADANG", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "13", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06573")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae91"), 
+    "kode_kabupaten" : "35.18", 
+    "nama_kabupaten" : "NGANJUK", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eade6"), 
+    "kode_kabupaten" : "13.76", 
+    "nama_kabupaten" : "KOTA PAYAKUMBUH", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "13", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06573")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae96"), 
+    "kode_kabupaten" : "35.23", 
+    "nama_kabupaten" : "TUBAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadeb"), 
+    "kode_kabupaten" : "14.04", 
+    "nama_kabupaten" : "INDRAGIRI HILIR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "14", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06574")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae9b"), 
+    "kode_kabupaten" : "35.28", 
+    "nama_kabupaten" : "PAMEKASAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadf0"), 
+    "kode_kabupaten" : "14.09", 
+    "nama_kabupaten" : "KUANTAN SINGINGI", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "14", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06574")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaea0"), 
+    "kode_kabupaten" : "35.74", 
+    "nama_kabupaten" : "KOTA PROBOLINGGO", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadf5"), 
+    "kode_kabupaten" : "15.02", 
+    "nama_kabupaten" : "MERANGIN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "15", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06575")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaea5"), 
+    "kode_kabupaten" : "35.79", 
+    "nama_kabupaten" : "KOTA BATU", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadfa"), 
+    "kode_kabupaten" : "15.07", 
+    "nama_kabupaten" : "TANJUNG JABUNG TIMUR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "15", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06575")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaeaa"), 
+    "kode_kabupaten" : "36.71", 
+    "nama_kabupaten" : "KOTA TANGERANG", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "36", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06580")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eadff"), 
+    "kode_kabupaten" : "16.01", 
+    "nama_kabupaten" : "OGAN KOMERING ULU", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "16", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06576")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaeaf"), 
+    "kode_kabupaten" : "51.02", 
+    "nama_kabupaten" : "TABANAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "51", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06581")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae04"), 
+    "kode_kabupaten" : "16.06", 
+    "nama_kabupaten" : "MUSI BANYUASIN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "16", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06576")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaeb4"), 
+    "kode_kabupaten" : "51.07", 
+    "nama_kabupaten" : "KARANGASEM", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "51", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06581")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae09"), 
+    "kode_kabupaten" : "16.11", 
+    "nama_kabupaten" : "EMPAT LAWANG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "16", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06576")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaeb9"), 
+    "kode_kabupaten" : "52.03", 
+    "nama_kabupaten" : "LOMBOK TIMUR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "52", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06582")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae0e"), 
+    "kode_kabupaten" : "16.73", 
+    "nama_kabupaten" : "KOTA LUBUK LINGGAU", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "16", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06576")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaebe"), 
+    "kode_kabupaten" : "52.08", 
+    "nama_kabupaten" : "LOMBOK UTARA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "52", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06582")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae13"), 
+    "kode_kabupaten" : "17.04", 
+    "nama_kabupaten" : "KAUR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "17", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06577")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaec3"), 
+    "kode_kabupaten" : "53.03", 
+    "nama_kabupaten" : "TIMOR TENGAH UTARA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "53", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06583")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae18"), 
+    "kode_kabupaten" : "17.09", 
+    "nama_kabupaten" : "BENGKULU TENGAH", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "17", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06577")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaec8"), 
+    "kode_kabupaten" : "53.08", 
+    "nama_kabupaten" : "ENDE", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "53", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06583")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae1d"), 
+    "kode_kabupaten" : "18.04", 
+    "nama_kabupaten" : "LAMPUNG BARAT", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "18", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06578")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae22"), 
+    "kode_kabupaten" : "18.09", 
+    "nama_kabupaten" : "PESAWARAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "18", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06578")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaecd"), 
+    "kode_kabupaten" : "53.13", 
+    "nama_kabupaten" : "LEMBATA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "53", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06583")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae27"), 
+    "kode_kabupaten" : "18.71", 
+    "nama_kabupaten" : "KOTA BANDAR LAMPUNG", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "18", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06578")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaed2"), 
+    "kode_kabupaten" : "53.18", 
+    "nama_kabupaten" : "SUMBA BARAT DAYA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "53", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06583")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae2c"), 
+    "kode_kabupaten" : "19.04", 
+    "nama_kabupaten" : "BANGKA TENGAH", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "19", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06579")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaed7"), 
+    "kode_kabupaten" : "61.01", 
+    "nama_kabupaten" : "SAMBAS", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "61", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06584")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae31"), 
+    "kode_kabupaten" : "21.02", 
+    "nama_kabupaten" : "KARIMUN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "21", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657a")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaedc"), 
+    "kode_kabupaten" : "61.06", 
+    "nama_kabupaten" : "KAPUAS HULU", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "61", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06584")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae36"), 
+    "kode_kabupaten" : "21.72", 
+    "nama_kabupaten" : "KOTA TANJUNG PINANG", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "21", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657a")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaee1"), 
+    "kode_kabupaten" : "61.11", 
+    "nama_kabupaten" : "KAYONG UTARA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "61", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06584")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae3b"), 
+    "kode_kabupaten" : "31.74", 
+    "nama_kabupaten" : "KOTA ADM. JAKARTA SELATAN", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "31", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657b")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaee6"), 
+    "kode_kabupaten" : "62.02", 
+    "nama_kabupaten" : "KOTAWARINGIN TIMUR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "62", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06585")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae40"), 
+    "kode_kabupaten" : "32.04", 
+    "nama_kabupaten" : "BANDUNG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "32", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaeeb"), 
+    "kode_kabupaten" : "62.07", 
+    "nama_kabupaten" : "SERUYAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "62", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06585")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae45"), 
+    "kode_kabupaten" : "32.09", 
+    "nama_kabupaten" : "CIREBON", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "32", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaef0"), 
+    "kode_kabupaten" : "62.12", 
+    "nama_kabupaten" : "MURUNG RAYA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "62", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06585")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae4a"), 
+    "kode_kabupaten" : "32.14", 
+    "nama_kabupaten" : "PURWAKARTA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "32", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaef5"), 
+    "kode_kabupaten" : "63.03", 
+    "nama_kabupaten" : "BANJAR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "63", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06586")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae4f"), 
+    "kode_kabupaten" : "32.71", 
+    "nama_kabupaten" : "KOTA BOGOR", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "32", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae54"), 
+    "kode_kabupaten" : "32.76", 
+    "nama_kabupaten" : "KOTA DEPOK", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "32", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaefa"), 
+    "kode_kabupaten" : "63.08", 
+    "nama_kabupaten" : "HULU SUNGAI UTARA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "63", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06586")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae59"), 
+    "kode_kabupaten" : "33.02", 
+    "nama_kabupaten" : "BANYUMAS", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "33", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaeff"), 
+    "kode_kabupaten" : "63.72", 
+    "nama_kabupaten" : "KOTA BANJARBARU", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "63", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06586")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae5e"), 
+    "kode_kabupaten" : "33.07", 
+    "nama_kabupaten" : "WONOSOBO", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "33", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf04"), 
+    "kode_kabupaten" : "64.08", 
+    "nama_kabupaten" : "KUTAI TIMUR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "64", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06587")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae63"), 
+    "kode_kabupaten" : "33.12", 
+    "nama_kabupaten" : "WONOGIRI", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "33", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf09"), 
+    "kode_kabupaten" : "64.74", 
+    "nama_kabupaten" : "KOTA BONTANG", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "64", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06587")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae68"), 
+    "kode_kabupaten" : "33.17", 
+    "nama_kabupaten" : "REMBANG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "33", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf0e"), 
+    "kode_kabupaten" : "65.71", 
+    "nama_kabupaten" : "KOTA TARAKAN", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "65", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06588")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae6d"), 
+    "kode_kabupaten" : "33.22", 
+    "nama_kabupaten" : "SEMARANG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "33", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf13"), 
+    "kode_kabupaten" : "71.05", 
+    "nama_kabupaten" : "MINAHASA SELATAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "71", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06589")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae72"), 
+    "kode_kabupaten" : "33.27", 
+    "nama_kabupaten" : "PEMALANG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "33", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf18"), 
+    "kode_kabupaten" : "71.10", 
+    "nama_kabupaten" : "BOLAANG MONGONDOW TIMUR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "71", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06589")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae77"), 
+    "kode_kabupaten" : "33.73", 
+    "nama_kabupaten" : "KOTA SALATIGA", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "33", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf1d"), 
+    "kode_kabupaten" : "71.74", 
+    "nama_kabupaten" : "KOTA KOTAMOBAGU", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "71", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06589")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae7c"), 
+    "kode_kabupaten" : "34.02", 
+    "nama_kabupaten" : "BANTUL", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "34", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657e")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae81"), 
+    "kode_kabupaten" : "35.02", 
+    "nama_kabupaten" : "PONOROGO", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf22"), 
+    "kode_kabupaten" : "72.05", 
+    "nama_kabupaten" : "BUOL", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "72", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658a")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf27"), 
+    "kode_kabupaten" : "72.10", 
+    "nama_kabupaten" : "SIGI", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "72", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658a")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae86"), 
+    "kode_kabupaten" : "35.07", 
+    "nama_kabupaten" : "MALANG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae8b"), 
+    "kode_kabupaten" : "35.12", 
+    "nama_kabupaten" : "SITUBONDO", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf2c"), 
+    "kode_kabupaten" : "73.02", 
+    "nama_kabupaten" : "BULUKUMBA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "73", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658b")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf31"), 
+    "kode_kabupaten" : "73.07", 
+    "nama_kabupaten" : "SINJAI", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "73", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658b")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf36"), 
+    "kode_kabupaten" : "73.12", 
+    "nama_kabupaten" : "SOPPENG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "73", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658b")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf3b"), 
+    "kode_kabupaten" : "73.17", 
+    "nama_kabupaten" : "LUWU", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "73", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658b")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf40"), 
+    "kode_kabupaten" : "73.71", 
+    "nama_kabupaten" : "KOTA MAKASSAR", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "73", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658b")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf45"), 
+    "kode_kabupaten" : "74.03", 
+    "nama_kabupaten" : "MUNA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "74", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf4a"), 
+    "kode_kabupaten" : "74.08", 
+    "nama_kabupaten" : "KOLAKA UTARA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "74", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf4f"), 
+    "kode_kabupaten" : "74.13", 
+    "nama_kabupaten" : "MUNA BARAT", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "74", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf54"), 
+    "kode_kabupaten" : "75.01", 
+    "nama_kabupaten" : "GORONTALO", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "75", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf59"), 
+    "kode_kabupaten" : "75.71", 
+    "nama_kabupaten" : "KOTA GORONTALO", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "75", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf5e"), 
+    "kode_kabupaten" : "76.05", 
+    "nama_kabupaten" : "MAJENE", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "76", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658e")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaee3"), 
+    "kode_kabupaten" : "61.71", 
+    "nama_kabupaten" : "KOTA PONTIANAK", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "61", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06584")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf63"), 
+    "kode_kabupaten" : "81.04", 
+    "nama_kabupaten" : "BURU", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "81", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaee8"), 
+    "kode_kabupaten" : "62.04", 
+    "nama_kabupaten" : "BARITO SELATAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "62", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06585")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaeed"), 
+    "kode_kabupaten" : "62.09", 
+    "nama_kabupaten" : "LAMANDAU", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "62", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06585")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf68"), 
+    "kode_kabupaten" : "81.09", 
+    "nama_kabupaten" : "BURU SELATAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "81", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaef2"), 
+    "kode_kabupaten" : "62.71", 
+    "nama_kabupaten" : "KOTA PALANGKARAYA", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "62", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06585")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf6d"), 
+    "kode_kabupaten" : "82.03", 
+    "nama_kabupaten" : "HALMAHERA UTARA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "82", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06590")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaef7"), 
+    "kode_kabupaten" : "63.05", 
+    "nama_kabupaten" : "TAPIN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "63", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06586")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf72"), 
+    "kode_kabupaten" : "82.08", 
+    "nama_kabupaten" : "PULAU TALIABU", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "82", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06590")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaefc"), 
+    "kode_kabupaten" : "63.10", 
+    "nama_kabupaten" : "TANAH BUMBU", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "63", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06586")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf01"), 
+    "kode_kabupaten" : "64.02", 
+    "nama_kabupaten" : "KUTAI KARTANEGARA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "64", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06587")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf77"), 
+    "kode_kabupaten" : "91.03", 
+    "nama_kabupaten" : "JAYAPURA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "91", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06591")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf06"), 
+    "kode_kabupaten" : "64.11", 
+    "nama_kabupaten" : "MAHAKAM ULU", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "64", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06587")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf7c"), 
+    "kode_kabupaten" : "91.08", 
+    "nama_kabupaten" : "PANIAI", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "91", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06591")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf0b"), 
+    "kode_kabupaten" : "65.02", 
+    "nama_kabupaten" : "MALINAU", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "65", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06588")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf10"), 
+    "kode_kabupaten" : "71.02", 
+    "nama_kabupaten" : "MINAHASA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "71", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06589")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf81"), 
+    "kode_kabupaten" : "91.13", 
+    "nama_kabupaten" : "YAHUKIMO", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "91", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06591")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf15"), 
+    "kode_kabupaten" : "71.07", 
+    "nama_kabupaten" : "MINAHASA TENGGARA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "71", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06589")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf86"), 
+    "kode_kabupaten" : "91.18", 
+    "nama_kabupaten" : "ASMAT", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "91", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06591")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf1a"), 
+    "kode_kabupaten" : "71.71", 
+    "nama_kabupaten" : "KOTA MANADO", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "71", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06589")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf1f"), 
+    "kode_kabupaten" : "72.02", 
+    "nama_kabupaten" : "POSO", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "72", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658a")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf8b"), 
+    "kode_kabupaten" : "91.23", 
+    "nama_kabupaten" : "LANNY JAYA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "91", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06591")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf24"), 
+    "kode_kabupaten" : "72.07", 
+    "nama_kabupaten" : "BANGGAI KEPULAUAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "72", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658a")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf90"), 
+    "kode_kabupaten" : "91.28", 
+    "nama_kabupaten" : "DEIYAI", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "91", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06591")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf29"), 
+    "kode_kabupaten" : "72.12", 
+    "nama_kabupaten" : "MOROWALI UTARA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "72", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658a")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf95"), 
+    "kode_kabupaten" : "92.04", 
+    "nama_kabupaten" : "SORONG SELATAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "92", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06592")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf2e"), 
+    "kode_kabupaten" : "73.04", 
+    "nama_kabupaten" : "JENEPONTO", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "73", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658b")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf33"), 
+    "kode_kabupaten" : "73.09", 
+    "nama_kabupaten" : "MAROS", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "73", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658b")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf9a"), 
+    "kode_kabupaten" : "92.09", 
+    "nama_kabupaten" : "TAMBRAUW", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "92", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06592")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf38"), 
+    "kode_kabupaten" : "73.14", 
+    "nama_kabupaten" : "SIDENRENG RAPPANG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "73", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658b")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf3d"), 
+    "kode_kabupaten" : "73.22", 
+    "nama_kabupaten" : "LUWU UTARA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "73", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658b")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf42"), 
+    "kode_kabupaten" : "73.73", 
+    "nama_kabupaten" : "KOTA PALOPO", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "73", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658b")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf47"), 
+    "kode_kabupaten" : "74.05", 
+    "nama_kabupaten" : "KONAWE SELATAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "74", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae38"), 
+    "kode_kabupaten" : "31.71", 
+    "nama_kabupaten" : "KOTA ADM. JAKARTA PUSAT", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "31", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657b")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae90"), 
+    "kode_kabupaten" : "35.17", 
+    "nama_kabupaten" : "JOMBANG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae95"), 
+    "kode_kabupaten" : "35.22", 
+    "nama_kabupaten" : "BOJONEGORO", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae9a"), 
+    "kode_kabupaten" : "35.27", 
+    "nama_kabupaten" : "SAMPANG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae9f"), 
+    "kode_kabupaten" : "35.73", 
+    "nama_kabupaten" : "KOTA MALANG", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaea4"), 
+    "kode_kabupaten" : "35.78", 
+    "nama_kabupaten" : "KOTA SURABAYA", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaea9"), 
+    "kode_kabupaten" : "36.04", 
+    "nama_kabupaten" : "SERANG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "36", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06580")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaeae"), 
+    "kode_kabupaten" : "51.01", 
+    "nama_kabupaten" : "JEMBRANA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "51", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06581")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaeb3"), 
+    "kode_kabupaten" : "51.06", 
+    "nama_kabupaten" : "BANGLI", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "51", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06581")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaeb8"), 
+    "kode_kabupaten" : "52.02", 
+    "nama_kabupaten" : "LOMBOK TENGAH", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "52", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06582")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaebd"), 
+    "kode_kabupaten" : "52.07", 
+    "nama_kabupaten" : "SUMBAWA BARAT", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "52", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06582")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaec2"), 
+    "kode_kabupaten" : "53.02", 
+    "nama_kabupaten" : "KAB TIMOR TENGAH SELATAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "53", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06583")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaec7"), 
+    "kode_kabupaten" : "53.07", 
+    "nama_kabupaten" : "SIKKA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "53", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06583")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaecc"), 
+    "kode_kabupaten" : "53.12", 
+    "nama_kabupaten" : "SUMBA BARAT", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "53", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06583")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaed1"), 
+    "kode_kabupaten" : "53.17", 
+    "nama_kabupaten" : "SUMBA TENGAH", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "53", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06583")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaed6"), 
+    "kode_kabupaten" : "53.71", 
+    "nama_kabupaten" : "KOTA KUPANG", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "53", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06583")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaedb"), 
+    "kode_kabupaten" : "61.05", 
+    "nama_kabupaten" : "SINTANG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "61", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06584")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaee0"), 
+    "kode_kabupaten" : "61.10", 
+    "nama_kabupaten" : "MELAWI", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "61", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06584")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaee5"), 
+    "kode_kabupaten" : "62.01", 
+    "nama_kabupaten" : "KOTAWARINGIN BARAT", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "62", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06585")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaeea"), 
+    "kode_kabupaten" : "62.06", 
+    "nama_kabupaten" : "KATINGAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "62", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06585")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaeef"), 
+    "kode_kabupaten" : "62.11", 
+    "nama_kabupaten" : "PULANG PISAU", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "62", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06585")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaef4"), 
+    "kode_kabupaten" : "63.02", 
+    "nama_kabupaten" : "KOTABARU", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "63", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06586")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaef9"), 
+    "kode_kabupaten" : "63.07", 
+    "nama_kabupaten" : "HULU SUNGAI TENGAH", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "63", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06586")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaefe"), 
+    "kode_kabupaten" : "63.71", 
+    "nama_kabupaten" : "KOTA BANJARMASIN", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "63", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06586")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf03"), 
+    "kode_kabupaten" : "64.07", 
+    "nama_kabupaten" : "KUTAI BARAT", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "64", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06587")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf08"), 
+    "kode_kabupaten" : "64.72", 
+    "nama_kabupaten" : "KOTA SAMARINDA", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "64", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06587")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf0d"), 
+    "kode_kabupaten" : "65.04", 
+    "nama_kabupaten" : "TANA TIDUNG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "65", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06588")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf12"), 
+    "kode_kabupaten" : "71.04", 
+    "nama_kabupaten" : "KEPULAUAN TALAUD", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "71", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06589")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf17"), 
+    "kode_kabupaten" : "71.09", 
+    "nama_kabupaten" : "KEPULAUAN SIAU TAGULANDANG BIARO", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "71", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06589")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf1c"), 
+    "kode_kabupaten" : "71.73", 
+    "nama_kabupaten" : "KOTA TOMOHON", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "71", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06589")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf21"), 
+    "kode_kabupaten" : "72.04", 
+    "nama_kabupaten" : "TOLI TOLI", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "72", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658a")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf26"), 
+    "kode_kabupaten" : "72.09", 
+    "nama_kabupaten" : "TOJO UNA UNA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "72", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658a")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf2b"), 
+    "kode_kabupaten" : "73.01", 
+    "nama_kabupaten" : "KEPULAUAN SELAYAR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "73", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658b")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf30"), 
+    "kode_kabupaten" : "73.06", 
+    "nama_kabupaten" : "GOWA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "73", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658b")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf35"), 
+    "kode_kabupaten" : "73.11", 
+    "nama_kabupaten" : "BARRU", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "73", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658b")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf3a"), 
+    "kode_kabupaten" : "73.16", 
+    "nama_kabupaten" : "ENREKANG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "73", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658b")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf3f"), 
+    "kode_kabupaten" : "73.26", 
+    "nama_kabupaten" : "TORAJA UTARA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "73", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658b")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf44"), 
+    "kode_kabupaten" : "74.02", 
+    "nama_kabupaten" : "KONAWE", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "74", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf49"), 
+    "kode_kabupaten" : "74.07", 
+    "nama_kabupaten" : "WAKATOBI", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "74", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf4e"), 
+    "kode_kabupaten" : "74.12", 
+    "nama_kabupaten" : "KONAWE KEPULAUAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "74", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf53"), 
+    "kode_kabupaten" : "74.72", 
+    "nama_kabupaten" : "KOTA BAU BAU", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "74", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf58"), 
+    "kode_kabupaten" : "75.05", 
+    "nama_kabupaten" : "GORONTALO UTARA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "75", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf5d"), 
+    "kode_kabupaten" : "76.04", 
+    "nama_kabupaten" : "POLEWALI MANDAR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "76", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658e")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf4c"), 
+    "kode_kabupaten" : "74.10", 
+    "nama_kabupaten" : "BUTON UTARA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "74", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf51"), 
+    "kode_kabupaten" : "74.15", 
+    "nama_kabupaten" : "BUTON SELATAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "74", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf56"), 
+    "kode_kabupaten" : "75.03", 
+    "nama_kabupaten" : "BONE BOLANGO", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "75", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf5b"), 
+    "kode_kabupaten" : "76.02", 
+    "nama_kabupaten" : "MAMUJU", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "76", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658e")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf60"), 
+    "kode_kabupaten" : "81.01", 
+    "nama_kabupaten" : "MALUKU TENGAH", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "81", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf65"), 
+    "kode_kabupaten" : "81.06", 
+    "nama_kabupaten" : "SERAM BAGIAN BARAT", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "81", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf6a"), 
+    "kode_kabupaten" : "81.72", 
+    "nama_kabupaten" : "KOTA TUAL", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "81", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf6f"), 
+    "kode_kabupaten" : "82.05", 
+    "nama_kabupaten" : "KEPULAUAN SULA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "82", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06590")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf74"), 
+    "kode_kabupaten" : "82.72", 
+    "nama_kabupaten" : "KOTA TIDORE KEPULAUAN", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "82", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06590")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf79"), 
+    "kode_kabupaten" : "91.05", 
+    "nama_kabupaten" : "KEPULAUAN YAPEN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "91", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06591")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf7e"), 
+    "kode_kabupaten" : "91.10", 
+    "nama_kabupaten" : "SARMI", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "91", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06591")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf83"), 
+    "kode_kabupaten" : "91.15", 
+    "nama_kabupaten" : "WAROPEN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "91", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06591")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf88"), 
+    "kode_kabupaten" : "91.20", 
+    "nama_kabupaten" : "MAMBERAMO RAYA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "91", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06591")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf8d"), 
+    "kode_kabupaten" : "91.25", 
+    "nama_kabupaten" : "PUNCAK", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "91", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06591")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf92"), 
+    "kode_kabupaten" : "92.01", 
+    "nama_kabupaten" : "SORONG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "92", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06592")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf97"), 
+    "kode_kabupaten" : "92.06", 
+    "nama_kabupaten" : "TELUK BINTUNI", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "92", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06592")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf9c"), 
+    "kode_kabupaten" : "92.11", 
+    "nama_kabupaten" : "MANOKWARI SELATAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "92", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06592")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf62"), 
+    "kode_kabupaten" : "81.03", 
+    "nama_kabupaten" : "MALUKU TENGGARA BARAT", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "81", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf67"), 
+    "kode_kabupaten" : "81.08", 
+    "nama_kabupaten" : "MALUKU BARAT DAYA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "81", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf6c"), 
+    "kode_kabupaten" : "82.02", 
+    "nama_kabupaten" : "HALMAHERA TENGAH", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "82", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06590")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf71"), 
+    "kode_kabupaten" : "82.07", 
+    "nama_kabupaten" : "PULAU MOROTAI", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "82", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06590")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf76"), 
+    "kode_kabupaten" : "91.02", 
+    "nama_kabupaten" : "JAYAWIJAYA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "91", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06591")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf7b"), 
+    "kode_kabupaten" : "91.07", 
+    "nama_kabupaten" : "PUNCAK JAYA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "91", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06591")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf80"), 
+    "kode_kabupaten" : "91.12", 
+    "nama_kabupaten" : "PEGUNUNGAN BINTANG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "91", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06591")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf85"), 
+    "kode_kabupaten" : "91.17", 
+    "nama_kabupaten" : "MAPPI", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "91", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06591")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf8a"), 
+    "kode_kabupaten" : "91.22", 
+    "nama_kabupaten" : "YALIMO", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "91", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06591")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf8f"), 
+    "kode_kabupaten" : "91.27", 
+    "nama_kabupaten" : "INTAN JAYA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "91", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06591")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf94"), 
+    "kode_kabupaten" : "92.03", 
+    "nama_kabupaten" : "FAK FAK", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "92", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06592")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf99"), 
+    "kode_kabupaten" : "92.08", 
+    "nama_kabupaten" : "KAIMANA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "92", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06592")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf9e"), 
+    "kode_kabupaten" : "92.71", 
+    "nama_kabupaten" : "KOTA SORONG", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "92", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06592")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae3d"), 
+    "kode_kabupaten" : "32.01", 
+    "nama_kabupaten" : "BOGOR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "32", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae42"), 
+    "kode_kabupaten" : "32.06", 
+    "nama_kabupaten" : "TASIKMALAYA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "32", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae47"), 
+    "kode_kabupaten" : "32.11", 
+    "nama_kabupaten" : "SUMEDANG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "32", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae4c"), 
+    "kode_kabupaten" : "32.16", 
+    "nama_kabupaten" : "BEKASI", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "32", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae51"), 
+    "kode_kabupaten" : "32.73", 
+    "nama_kabupaten" : "KOTA BANDUNG", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "32", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae56"), 
+    "kode_kabupaten" : "32.78", 
+    "nama_kabupaten" : "KOTA TASIKMALAYA", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "32", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae5b"), 
+    "kode_kabupaten" : "33.04", 
+    "nama_kabupaten" : "BANJARNEGARA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "33", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae60"), 
+    "kode_kabupaten" : "33.09", 
+    "nama_kabupaten" : "BOYOLALI", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "33", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae65"), 
+    "kode_kabupaten" : "33.14", 
+    "nama_kabupaten" : "SRAGEN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "33", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae6a"), 
+    "kode_kabupaten" : "33.19", 
+    "nama_kabupaten" : "KUDUS", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "33", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae6f"), 
+    "kode_kabupaten" : "33.24", 
+    "nama_kabupaten" : "KENDAL", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "33", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae74"), 
+    "kode_kabupaten" : "33.29", 
+    "nama_kabupaten" : "BREBES", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "33", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae79"), 
+    "kode_kabupaten" : "33.75", 
+    "nama_kabupaten" : "KOTA PEKALONGAN", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "33", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae7e"), 
+    "kode_kabupaten" : "34.04", 
+    "nama_kabupaten" : "SLEMAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "34", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657e")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae83"), 
+    "kode_kabupaten" : "35.04", 
+    "nama_kabupaten" : "TULUNGAGUNG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae88"), 
+    "kode_kabupaten" : "35.09", 
+    "nama_kabupaten" : "JEMBER", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae8d"), 
+    "kode_kabupaten" : "35.14", 
+    "nama_kabupaten" : "PASURUAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae92"), 
+    "kode_kabupaten" : "35.19", 
+    "nama_kabupaten" : "MADIUN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae97"), 
+    "kode_kabupaten" : "35.24", 
+    "nama_kabupaten" : "LAMONGAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eae9c"), 
+    "kode_kabupaten" : "35.29", 
+    "nama_kabupaten" : "SUMENEP", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaea1"), 
+    "kode_kabupaten" : "35.75", 
+    "nama_kabupaten" : "KOTA PASURUAN", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "35", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0657f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaea6"), 
+    "kode_kabupaten" : "36.01", 
+    "nama_kabupaten" : "PANDEGLANG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "36", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06580")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaeab"), 
+    "kode_kabupaten" : "36.72", 
+    "nama_kabupaten" : "KOTA CILEGON", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "36", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06580")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaeb0"), 
+    "kode_kabupaten" : "51.03", 
+    "nama_kabupaten" : "BADUNG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "51", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06581")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaeb5"), 
+    "kode_kabupaten" : "51.08", 
+    "nama_kabupaten" : "BULELENG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "51", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06581")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaeba"), 
+    "kode_kabupaten" : "52.04", 
+    "nama_kabupaten" : "SUMBAWA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "52", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06582")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaebf"), 
+    "kode_kabupaten" : "52.71", 
+    "nama_kabupaten" : "KOTA MATARAM", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "52", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06582")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaec4"), 
+    "kode_kabupaten" : "53.04", 
+    "nama_kabupaten" : "BELU", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "53", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06583")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaec9"), 
+    "kode_kabupaten" : "53.09", 
+    "nama_kabupaten" : "NGADA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "53", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06583")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaece"), 
+    "kode_kabupaten" : "53.14", 
+    "nama_kabupaten" : "ROTE NDAO", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "53", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06583")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaed3"), 
+    "kode_kabupaten" : "53.19", 
+    "nama_kabupaten" : "MANGGARAI TIMUR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "53", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06583")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaed8"), 
+    "kode_kabupaten" : "61.02", 
+    "nama_kabupaten" : "MEMPAWAH", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "61", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06584")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaedd"), 
+    "kode_kabupaten" : "61.07", 
+    "nama_kabupaten" : "BENGKAYANG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "61", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06584")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaee2"), 
+    "kode_kabupaten" : "61.12", 
+    "nama_kabupaten" : "KUBU RAYA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "61", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06584")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaee7"), 
+    "kode_kabupaten" : "62.03", 
+    "nama_kabupaten" : "KAPUAS", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "62", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06585")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaeec"), 
+    "kode_kabupaten" : "62.08", 
+    "nama_kabupaten" : "SUKAMARA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "62", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06585")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaef1"), 
+    "kode_kabupaten" : "62.13", 
+    "nama_kabupaten" : "BARITO TIMUR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "62", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06585")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaef6"), 
+    "kode_kabupaten" : "63.04", 
+    "nama_kabupaten" : "BARITO KUALA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "63", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06586")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaefb"), 
+    "kode_kabupaten" : "63.09", 
+    "nama_kabupaten" : "TABALONG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "63", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06586")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf00"), 
+    "kode_kabupaten" : "64.01", 
+    "nama_kabupaten" : "PASER", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "64", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06587")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf05"), 
+    "kode_kabupaten" : "64.09", 
+    "nama_kabupaten" : "PENAJAM PASER UTARA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "64", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06587")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf0a"), 
+    "kode_kabupaten" : "65.01", 
+    "nama_kabupaten" : "BULUNGAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "65", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06588")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf0f"), 
+    "kode_kabupaten" : "71.01", 
+    "nama_kabupaten" : "BOLAANG MONGONDOW", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "71", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06589")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf14"), 
+    "kode_kabupaten" : "71.06", 
+    "nama_kabupaten" : "MINAHASA UTARA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "71", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06589")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf19"), 
+    "kode_kabupaten" : "71.11", 
+    "nama_kabupaten" : "BOLAANG MONGONDOW SELATAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "71", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06589")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf1e"), 
+    "kode_kabupaten" : "72.01", 
+    "nama_kabupaten" : "BANGGAI", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "72", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658a")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf23"), 
+    "kode_kabupaten" : "72.06", 
+    "nama_kabupaten" : "MOROWALI", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "72", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658a")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf28"), 
+    "kode_kabupaten" : "72.11", 
+    "nama_kabupaten" : "BANGGAI LAUT", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "72", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658a")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf2d"), 
+    "kode_kabupaten" : "73.03", 
+    "nama_kabupaten" : "BANTAENG", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "73", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658b")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf32"), 
+    "kode_kabupaten" : "73.08", 
+    "nama_kabupaten" : "BONE", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "73", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658b")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf37"), 
+    "kode_kabupaten" : "73.13", 
+    "nama_kabupaten" : "WAJO", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "73", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658b")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf3c"), 
+    "kode_kabupaten" : "73.18", 
+    "nama_kabupaten" : "TANA TORAJA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "73", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658b")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf41"), 
+    "kode_kabupaten" : "73.72", 
+    "nama_kabupaten" : "KOTA PARE PARE", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "73", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658b")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf46"), 
+    "kode_kabupaten" : "74.04", 
+    "nama_kabupaten" : "BUTON", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "74", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf4b"), 
+    "kode_kabupaten" : "74.09", 
+    "nama_kabupaten" : "KONAWE UTARA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "74", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf50"), 
+    "kode_kabupaten" : "74.14", 
+    "nama_kabupaten" : "BUTON TENGAH", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "74", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658c")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf55"), 
+    "kode_kabupaten" : "75.02", 
+    "nama_kabupaten" : "BOALEMO", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "75", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658d")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf5a"), 
+    "kode_kabupaten" : "76.01", 
+    "nama_kabupaten" : "MAMUJU UTARA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "76", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658e")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf5f"), 
+    "kode_kabupaten" : "76.06", 
+    "nama_kabupaten" : "MAMUJU TENGAH", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "76", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658e")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf64"), 
+    "kode_kabupaten" : "81.05", 
+    "nama_kabupaten" : "SERAM BAGIAN TIMUR", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "81", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf69"), 
+    "kode_kabupaten" : "81.71", 
+    "nama_kabupaten" : "KOTA AMBON", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "81", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f0658f")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf6e"), 
+    "kode_kabupaten" : "82.04", 
+    "nama_kabupaten" : "HALMAHERA SELATAN", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "82", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06590")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf73"), 
+    "kode_kabupaten" : "82.71", 
+    "nama_kabupaten" : "KOTA TERNATE", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "82", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06590")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf78"), 
+    "kode_kabupaten" : "91.04", 
+    "nama_kabupaten" : "NABIRE", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "91", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06591")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf7d"), 
+    "kode_kabupaten" : "91.09", 
+    "nama_kabupaten" : "MIMIKA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "91", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06591")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf82"), 
+    "kode_kabupaten" : "91.14", 
+    "nama_kabupaten" : "TOLIKARA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "91", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06591")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf87"), 
+    "kode_kabupaten" : "91.19", 
+    "nama_kabupaten" : "SUPIORI", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "91", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06591")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf8c"), 
+    "kode_kabupaten" : "91.24", 
+    "nama_kabupaten" : "NDUGA", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "91", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06591")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf91"), 
+    "kode_kabupaten" : "91.71", 
+    "nama_kabupaten" : "KOTA JAYAPURA", 
+    "is_kota" : NumberInt(1), 
+    "kode_provinsi" : "91", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06591")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf96"), 
+    "kode_kabupaten" : "92.05", 
+    "nama_kabupaten" : "RAJA AMPAT", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "92", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06592")
+}
+{ 
+    "_id" : ObjectId("5b62fc861ea165384c6eaf9b"), 
+    "kode_kabupaten" : "92.10", 
+    "nama_kabupaten" : "MAYBRAT", 
+    "is_kota" : NumberInt(0), 
+    "kode_provinsi" : "92", 
+    "__v" : NumberInt(0), 
+    "provinsiId" : ObjectId("5b62e122567f8b2d24f06592")
+}
